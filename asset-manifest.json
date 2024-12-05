@@ -1,13 +1,13 @@
 {
   "main.css": "/persimmon/static/css/main.8cb59933.chunk.css",
-  "main.js": "/persimmon/static/js/main.da5362d2.chunk.js",
-  "main.js.map": "/persimmon/static/js/main.da5362d2.chunk.js.map",
+  "main.js": "/persimmon/static/js/main.0173687c.chunk.js",
+  "main.js.map": "/persimmon/static/js/main.0173687c.chunk.js.map",
   "runtime~main.js": "/persimmon/static/js/runtime~main.1280b9de.js",
   "runtime~main.js.map": "/persimmon/static/js/runtime~main.1280b9de.js.map",
-  "static/js/2.5972a582.chunk.js": "/persimmon/static/js/2.5972a582.chunk.js",
-  "static/js/2.5972a582.chunk.js.map": "/persimmon/static/js/2.5972a582.chunk.js.map",
+  "static/js/2.ca3b8ff0.chunk.js": "/persimmon/static/js/2.ca3b8ff0.chunk.js",
+  "static/js/2.ca3b8ff0.chunk.js.map": "/persimmon/static/js/2.ca3b8ff0.chunk.js.map",
   "index.html": "/persimmon/index.html",
-  "precache-manifest.8f4bcdb1b3faa9acd454c5dbaa93b616.js": "/persimmon/precache-manifest.8f4bcdb1b3faa9acd454c5dbaa93b616.js",
+  "precache-manifest.ca589da26a816c77f51ed9a2885a27ca.js": "/persimmon/precache-manifest.ca589da26a816c77f51ed9a2885a27ca.js",
   "service-worker.js": "/persimmon/service-worker.js",
   "static/css/main.8cb59933.chunk.css.map": "/persimmon/static/css/main.8cb59933.chunk.css.map"
 }
