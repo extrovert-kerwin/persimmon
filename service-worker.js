@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/persimmon/precache-manifest.ca589da26a816c77f51ed9a2885a27ca.js"
+  "/persimmon/precache-manifest.f7aabeb59b292f94f28b194625357a76.js"
 );
 
 workbox.clientsClaim();
